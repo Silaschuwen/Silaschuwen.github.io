@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Silas (Chuhanwen) Sun",
+    "label": "Master Student in Biomedicine",
+    "image": "assets/img/linkedin_pic.png",
+    "email": "chuhanwen.sun@stud.ki.se",
+    "phone": "+46 0728704415",
+    "url": "",
+    "summary": "A Master's student in Biomedicine with extensive experience in life sciences, bioinformatics, and data analysis.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "education": [
+    {
+      "institution": "Karolinska Institutet",
+      "location": "Stockholm, Sweden",
+      "url": "https://www.ki.se/",
+      "area": "Biomedicine",
+      "studyType": "Master",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": [
+        "Life Sciences: Frontiers in Biomedicine, Bioethics, Applied Biomedical Communication",
+        "Statistics & Informatics: Applied Biostatistics, Bioinformatics"
+      ]
+    },
+    {
+      "institution": "Tsinghua University",
+      "location": "Beijing, China",
+      "url": "https://www.tsinghua.edu.cn/",
+      "area": "Life Science",
+      "studyType": "Bachelor",
+      "startDate": "2019-09-01",
+      "endDate": "2023-08-01",
+      "score": "3.67",
+      "courses": [
+        "Life Sciences: Molecular Biology, Genetics, Cell Biology, Neuroscience",
+        "Statistics & Informatics: Calculus, Linear Algebra, Programming, Statistics",
+        "Core Courses: Organic Chemistry, Physical Chemistry, Biochemistry"
+      ]
+    }
+  ],
+  "work": [
+  {
+    "name": "Air Tsinghua",
+    "position": "Research Intern",
+    "url": "",
+    "startDate": "2022-07-01",
+    "endDate": "2023-08-01",
+    "summary": "Conducted research on drug repurposing, drug sensitivity dataset integration, and biological research knowledge logic chain QA.",
+    "highlights": [
+      "Developed Multi-Drug-Transfer-Learning model for drug repurposing",
+      "Integrated drug-cell line data from over 15 published databases",
+      "Generated QA dataset using GPT-3.5 model for biological research knowledge"
+    ]
+  },
+  {
+    "name": "Department of Automation, Tsinghua University",
+    "position": "Research Assistant",
+    "url": "",
+    "startDate": "2023-06-01",
+    "endDate": "2024-07-01",
+    "summary": "Analyzed spatiotemporal dynamics of atherosclerosis plaque and potential consistency in vascular remodeling diseases.",
+    "highlights": [
+      "Discovered new subset of monocytes (PIMs) critical to plaque instability",
+      "Integrated multiple vascular remodeling disease sequencing data"
+    ]
+  },
+  {
+    "name": "Department of Neurosurgery, Duke University",
+    "position": "Short-term Visiting Scholar",
+    "url": "",
+    "startDate": "2024-04-01",
+    "endDate": "2024-09-01",
+    "summary": "Developed probabilistic cell typing methods for VisiumHD data.",
+    "highlights": [
+      "Conducted comprehensive benchmarking across multiple published methods",
+      "Participated in manuscript writing and figure preparation for publication"
+    ]
+  },
+  {
+    "name": "Department of Cell and Molecular Biology, Karolinska Institute",
+    "position": "Research Project in Bioinformatics",
+    "url": "",
+    "startDate": "2023-10-01",
+    "endDate": "Present",
+    "summary": "Spatial profiling data analysis in triple-negative breast cancers.",
+    "highlights": [
+      "Developed Tumor Promoting Microenvironment Characterization method",
+      "Applied advanced computational techniques for Niche-Phenotype Mapping"
+    ]
+  },
+  {
+    "name": "IDG/McGovern Institute, Tsinghua University",
+    "position": "Capstone Project in Molecular and Cellular Biology",
+    "url": "",
+    "startDate": "2022-07-01",
+    "endDate": "2023-09-01",
+    "summary": "Investigation into pathophysiological roles of ATXN2/2L in neuron system.",
+    "highlights": [
+      "Constructed stable U2OS ATXN2/2L cell lines",
+      "Created and evaluated a cerebellum-specific ATXN2/2L knockout mouse model",
+      "Integrated diverse experimental data for comprehensive academic presentation"
+    ]
+  },
+  {
+    "name": "Tsinghua Laboratory of Brain and Intelligence",
+    "position": "Research Projects in Behavioral Neuroscience",
+    "url": "",
+    "startDate": "2021-09-01",
+    "endDate": "2022-07-01",
+    "summary": "Parkinson's Disease mouse modeling and CX3CR1 knockout studies.",
+    "highlights": [
+      "Developed and validated a reliable PD mouse model using rotenone and MPTP",
+      "Constructed a CX3CR1 knockout mouse model to study learning and memory",
+      "Performed contextual fear conditioning tests and RibotTag-based RNA extraction"
+    ]
+  }
+],
+  "volunteer": [
+  {
+    "organization": "Department of Life Science, Tsinghua University",
+    "position": "President of Student Union",
+    "startDate": "2021-12-01",
+    "endDate": "2023-09-01",
+    "summary": "Led student activities and initiatives in the Department of Life Science."
+  },
+  {
+    "organization": "Department of Life Science, Tsinghua University",
+    "position": "Basketball Team Member",
+    "startDate": "2020-09-01",
+    "endDate": "2023-09-01",
+    "summary": "Participated in departmental basketball team activities."
+  },
+  {
+    "organization": "Pandemic Response",
+    "position": "Volunteer",
+    "startDate": "2021-09-01",
+    "endDate": "2021-12-01",
+    "summary": "Assisted in pandemic response efforts."
+  },
+  {
+    "organization": "COVID-19 Public Education",
+    "position": "Science Communicator",
+    "startDate": "2021-01-01",
+    "endDate": "2021-01-31",
+    "summary": "Conducted popular science communication on COVID-19."
+  },
+  {
+    "organization": "Medical Services",
+    "position": "Volunteer",
+    "startDate": "2020-07-01",
+    "endDate": "2020-08-31",
+    "summary": "Provided volunteer medical services."
+  }
+],
+  "awards": [
+    {
+      "title": "Second-class Prize Scholarship",
+      "date": "2023",
+      "awarder": "Tsinghua University",
+      "summary": ""
+    },
+    {
+      "title": "Excellent Scholarship of Comprehensive Quality",
+      "date": "2023",
+      "awarder": "Tsinghua University",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Circadian clocks are modulated by compartmentalized oscillating translation",
+      "publisher": "Cell",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1016/j.cell.2023.05.045",
+      "summary": "Published as co-author in Cell, exploring the modulation of circadian clocks by compartmentalized oscillating translation."
+    },
+    {
+      "name": "STHD: probabilistic cell typing of single Spots in whole Transcriptome spatial data with High Definition",
+      "publisher": "bioRxiv",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1101/2024.06.20.599803",
+      "summary": "Preprint on bioRxiv, introducing a new method for probabilistic cell typing in spatial transcriptomics data."
+    },
+    {
+      "name": "DeepCRE: Transforming Drug R&D via AI-Driven Cross-drug Response Evaluation",
+      "publisher": "arXiv",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.48550/arXiv.2403.03768",
+      "summary": "Preprint on arXiv, under review at Science Advances, presenting an AI-driven approach for cross-drug response evaluation."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python, C, R, Matlab"
+      ]
+    },
+    {
+
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient (IELTS: 7.5)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Data-driven & Diseases-target Research",
+      "keywords": [
+        "Multi-omics data",
+        "Single-cell transcriptomics",
+        "Spatial transcriptomics"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}

@@ -26,7 +26,7 @@ My name is Silas(Chuhanwen) Sun, and now I am a Biomedicine master student at Ka
 
 * Earned a Bachelor's degree in Life Sciences from [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the guidance of [Dr. Yi Lin](http://linyi-lab.life.tsinghua.edu.cn/home/), focusing on "Investigation into pathophysiological roles of ATXN2/2L in neuron system."
 
-* Expanded expertise from wet lab research to data-driven approaches by participating in the [Pre-clinical drug discovery project](https://github.com/wuys13/Multi-Drug-Transfer-Learning) at [Air Tsinghua](https://air.tsinghua.edu.cn/en/), focusing on diverse multi-omics datasets integration and tumor sub-clustering techniques refining.
+* Expanded expertise from wet lab research to data-driven approaches by participating in the [Pre-clinical drug discovery project](https://arxiv.org/abs/2403.03768) at [Air Tsinghua](https://air.tsinghua.edu.cn/en/), focusing on diverse multi-omics datasets integration and tumor sub-clustering techniques refining.
 
 * Further developed skills in single-cell analysis at the [Xuegong Zhang Lab](http://eca.xglab.tech/member/index.html) at Department of Automation, Tsinghua University, conducting scRNA-seq to identify cellular transformations related to atherosclerotic plaque instability.
 

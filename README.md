@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silas Sun</h1>
 <h3 align="center">Data-driven|Disease-target|Bioinfo&Computational Biology</h3>
 
-- 📫 How to reach me **silaschw0817@gmail.com**  or **chuhanwen.sun@stud.ki.se**
+- 📫 How to reach me **silaschw0817@gmail.com**  or **chuhanwen.sun@rutgert.edu**
 
 
 

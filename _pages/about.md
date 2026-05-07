@@ -20,9 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 **Research**
 
-My name is Chuhanwen (Silas) Sun. I am a Ph.D. student in the Department of Genetics at Rutgers University, working in the [Jiekun (Jackie) Yang Lab](https://www.yangcompbio.org). I develop statistical and machine learning methods for single-cell and spatial omics, with applications to complex diseases including cancer, neurodegeneration, and cardiovascular disease.
+I am a Ph.D. student in the Department of Genetics at Rutgers University, supervised by [Dr. Jiekun (Jackie) Yang](https://www.yangcompbio.org). My research focuses on developing computational, statistical, and machine learning methods for single-cell, spatial, and multi-omics data, with the goal of uncovering disease mechanisms from high-dimensional biological datasets.
 
-My current research is centered on biodata-driven discovery from multi-omics data. I am interested in using computational and bioinformatic analyses to decode disease mechanisms in melanoma and other cancers, as well as brain disorders including Down syndrome-associated Alzheimer's disease. I also work on methods for emerging spatial transcriptomics and spatial multi-omics data, including cell segmentation, cell-state inference, and cell-level reconstruction.
+My current work centers on data-driven biological discovery from multi-omics data. I study complex diseases including melanoma and other cancers, and neurodegenerative disorders such as Down syndrome and Alzheimer's disease. I am particularly interested in using computational analyses to connect cellular states, tissue organization, and molecular programs to disease progression.
+
+Methodologically, I work on emerging spatial transcriptomics and spatial multi-omics data, including cell annotation, cell-state inference, and cell-level reconstruction. These efforts aim to improve the resolution and interpretability of spatial omics analyses and enable more precise modeling of cellular organization in disease tissues.
 
 **Previous Experience**
 

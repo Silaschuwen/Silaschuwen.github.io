@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Genome Biol":
+  url: https://genomebiology.biomedcentral.com/
+  color: "#1f6f8b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Cell":
+  url: https://www.cell.com/cell/home
+  color: "#8a1538"
 
-"Vision":
-  color: "#009f36"
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#c45a11"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#6b7280"

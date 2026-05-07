@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications participated!
+description: Peer-reviewed publications and selected preprints.
 nav: true
 nav_order: 2
 ---
